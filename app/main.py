@@ -11,11 +11,7 @@ from app.models.pydantic.chat_payload import AdminPayload
 from app.services.chat_service import ChatService
 from app.database import Base, engine
 from app.models.db.memory_model import ChatHistory
-# from app.routers import chat_router
-from app.services.chroma_service import ChromaService
-
-chroma = ChromaService()
-vectordb = chroma.build_vector_store()
+from app.routers import chat_router
 
 # 1. Template renderer
 templates = Jinja2Templates(directory="app/templates") 
@@ -32,13 +28,13 @@ app = FastAPI(lifespan=lifespan)
 async def message():
     return {"message" : "   add '/docs' after this page's url to open the swagger interface or '/chatbot' to open the 'IT Info Chatbot'   "}
 
-@app.post('/')
-async def ai_chat(question: AdminPayload, db: AsyncSession = Depends(get_async_session)):
-    response = await ChatService(db).chat(chat_data=question, vectordb=vectordb)
-    return {'response' : response}
+# @app.post('/')
+# async def ai_chat(question: AdminPayload, db: AsyncSession = Depends(get_async_session)):
+#     response = await ChatService(db).chat(chat_data=question, vectordb=vectordb)
+#     return {'response' : response}
 
 # 2. Include API router
-# app.include_router(chat_router.router)
+app.include_router(chat_router.router)
 
 # 3. Serve the chatbot UI
 @app.get("/chatbot", response_class=HTMLResponse)

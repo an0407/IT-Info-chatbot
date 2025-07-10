@@ -1,0 +1,8 @@
+Title: Enterprise Platform Services
+            content: Hexaware helps organizations move to a SaaS model, thereby saving large chunks of Capex in the process. We offer implementation services for leading cloud-based Enterprise Resource Planning (ERP) products, leveraging flexible engagement models. Our proprietary platforms are built with innovative solutions that assist you in each stage of the cloud migration journey.
+When it comes to managing your intricate ERP portfolio, Hexaware is your ideal partner. We deliver cutting-edge AMS services for Workday, SAP Cloud, Oracle Cloud, Adobe Cloud and more. Achieve over 30% in benefits and cost savings by teaming up with Hexaware to harness our proprietary solutions and platforms. Our solutions not only reactively address incidents but also proactively maintain your system.
+If you aim to keep your current legacy
+enterprise
+applications while tapping into the advantages of the Cloud, Hexaware has you covered. Partner with us to host your existing legacy ERPs on the Cloud and enjoy a multitude of benefits. Hexaware maintains a strategic partnership with all the major
+hyperscalers
+.

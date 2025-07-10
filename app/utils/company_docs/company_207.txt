@@ -1,0 +1,3 @@
+Title: Photon Adaptive Responsive Web Design Experiences
+            content: UI breakpoints across different form factors
+We use the latest web technologies—such as HTML 5, CSS, and JavaScript—to detect the capabilities of the user’s device and tailor the user experience as per the form factor, be it a phone, tablet, or desktop.

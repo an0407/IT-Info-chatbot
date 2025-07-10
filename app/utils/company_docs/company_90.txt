@@ -1,0 +1,2 @@
+Title: Application Services | Hexaware
+            content: Accepted file formats: .xlsx, .xls, .doc, .docx, .pdf, .rtf, .zip, .rar

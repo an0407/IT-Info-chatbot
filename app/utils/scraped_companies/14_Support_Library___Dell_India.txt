@@ -1,0 +1,5 @@
+Support Library | Dell India
+https://www.dell.com/support/contents/en-in/category/product-support/self-support-knowledgebase
+
+Battery, Power, and Fan
+Learn how to troubleshoot battery issues, run diagnostics tests, and manage AC adapter, fan, and power issues on your PC.

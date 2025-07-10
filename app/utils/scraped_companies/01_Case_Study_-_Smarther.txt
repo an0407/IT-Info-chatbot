@@ -1,0 +1,4 @@
+Case Study - Smarther
+https://www.smarther.co/case-study/
+
+Find A Gaff is a London-based online platform connecting gaff owners with guests for seamless short-term stays. We built a feature-rich, secure, and scalable solution that makes discovering, booking, and sharing homes easy, helping create a global network of trusted hosts and visitors.

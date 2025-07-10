@@ -1,0 +1,5 @@
+Title: Build a fully functional AI-powered low-code application in just 30 minutes
+            content: Join us for a hands-on demo to see how AI can accelerate your application development process.
+IT teams frequently get bogged down by the repetitive tasks involved in app development, such as creating workflows from the ground up, designing forms from scratch, and manually mapping data fields and sources.
+Imagine an app development process in which AI handles the obvious parts. It reduces cognitive load by automating workflow step selection, recommending form fields, classifying sensitive data, and more.
+With an intuitive AI-driven workflow builder, this is not just possible but also faster to implement. It lets your team focus on critical features of the app rather than mundane details.

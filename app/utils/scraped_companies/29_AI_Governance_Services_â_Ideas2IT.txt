@@ -1,0 +1,5 @@
+AI Governance Services â Ideas2IT
+https://www.ideas2it.com/services/ai-governance
+
+Lineage, Traceability & Explainability Infrastructure
+Set up pipelines that track dataset usage, model evolution, fine-tuning history, and prompt outputs â creating a single source of truth for audit, risk, and internal QA.

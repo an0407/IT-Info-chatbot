@@ -1,0 +1,4 @@
+Robot or human?
+https://www.walmart.com/account/api/ccpa-intake?native=false&type=access
+
+Activate and hold the button to confirm that you’re human. Thank You!

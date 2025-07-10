@@ -1,0 +1,6 @@
+Title: Platform Modernization
+            content: We evaluate your existing infrastructure and pinpoint areas that need improvement. This ensures incremental delivery of outcomes with speed and scalability.
+Adopt an incremental, agile approach
+We start modernizing step-by-step to minimize disruption and maximize efficiency. This keeps your teams agile, ensuring you see results in weeks, not years.
+Integrate a Single Source of Truth (SSOT)
+Bring all your data into one trusted system. By integrating a SSOT, you eliminate silos and enable smarter, data-driven decisions across your business.

@@ -17,11 +17,12 @@ class ChatService:
     def __init__(self, db: AsyncSession):
         self.llm = ChatOpenAI(model="gpt-4o-mini")
         self.memory_manager = MemoryManager(db)
+        self.retriever = ChromaService()
 
-    async def chat(self, chat_data : AdminPayload, vectordb : FAISS):
+    async def chat(self, chat_data : AdminPayload):
         try:
-            docs = vectordb.similarity_search(chat_data.query)
-            context = "\n\n".join(doc.page_content for doc in docs) if docs else "No related information found in the scraped data."
+            docs = self.retriever.query_docs(chat_data.query)
+            context = "\n\n".join(docs) if docs else "No related information found in the scraped data."
 
             print(f'\n\n{context}\n\n')
             

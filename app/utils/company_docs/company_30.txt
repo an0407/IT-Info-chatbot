@@ -1,0 +1,4 @@
+Title: Doc Scanner - Scan PDF
+            content: Digitize your
+papers
+Scan your documents and digitize them flawlessly. You can then e-sign, extract, translate, share, create workflows, and process your documents with Doc Scanner.

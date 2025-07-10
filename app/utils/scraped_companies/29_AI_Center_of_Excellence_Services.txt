@@ -1,0 +1,5 @@
+AI Center of Excellence Services
+https://www.ideas2it.com/services/ai-center-of-excellence
+
+Governance, Risk & Compliance Frameworks
+Operationalize Responsible AI with policy automation, lineage tracking, explainability modules, and built-in HIPAA, GDPR, and SOC 2 compliance.

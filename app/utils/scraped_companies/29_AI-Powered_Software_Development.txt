@@ -1,0 +1,7 @@
+AI-Powered Software Development
+https://www.ideas2it.com/services/ai-software-development
+
+End-to-end agile delivery of 40+ user stories across user, admin, and token workflows
+Integrated generative AI pipeline with NEUS2 model for fast convergence and high-fidelity STL output
+AI-augmented SDLC: proprietary internal workflows to auto-generate boilerplate, detect defects, and auto-generate test cases
+Delivered all 4 model categories (Rings â Bracelets, Pendants, Earrings) with 4X expansion

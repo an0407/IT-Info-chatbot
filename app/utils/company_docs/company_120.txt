@@ -1,0 +1,4 @@
+Title: Support Services & Warranty
+            content: If you are experiencing issues with your device and want to file a claim or get support,
+contact us
+.

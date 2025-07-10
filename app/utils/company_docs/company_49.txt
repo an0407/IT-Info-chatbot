@@ -1,0 +1,9 @@
+Title: Avid Solutions | IBM
+            content: To help reduce errors and alleviate operational burdens, Dr. Adams and his team started using the
+IBM
+®
+watsonx
+™
+Orchestrate
+solution to automate repetitive tasks undertaken by employees such as customer service representatives, project managers and accountants. The workstreams they have started optimizing include customer onboarding, project management and expense reporting. Watsonx Orchestrate has helped the team automate the many steps in these lengthy and error-prone processes that are critical to the business. “By automating tedious workstreams with Orchestrate, we are now able to free up our employees to focus on more strategic work and their own development, while also improving the overall efficiency of our operations,” adds Adams.
+Document delivery and processing are some of the early use-cases Adams and his team at Avid Solutions have implemented. “For the document processing workstream, watsonx monitors emails as they come in. It looks for emails that have a specific set of criteria, like a subject line and document attached, and it will then send the document to a specific repository in our cloud-based filing system,” explains Adams. This use-case is just the beginning.

@@ -1,0 +1,11 @@
+Mobile App Development
+https://www.smarther.co/technology-stack/
+
+What Technologies we use in Smarther?
+At
+Smarther
+, we use a wide range of technologies to build mobile applications and website development. Our Technology stack includes the best available frameworks and programming languages for building scalable software and seamless performance.
+Mobile App Development
+For
+Mobile App Development
+, we implement the most demanding app development technologies. Android and iOS are two of the most commonly used mobile devices across the globe. We create apps for both platforms with the help of Kotlin, Java, Swift, Flutter, and others.

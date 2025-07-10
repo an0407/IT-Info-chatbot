@@ -29,10 +29,9 @@ class ChromaService:
 
     def build_vector_store(self):
         print('loading documents')
-        # documents = self.load_text_documents()
-        # document = documents[0]
-        print('\nText Loader')
-        documents = TextLoader('app/utils/gullivers_travels.txt', encoding='utf-8').load()
+        documents = self.load_text_documents()
+        # print('\nText Loader')
+        # documents = TextLoader('app/utils/gullivers_travels.txt', encoding='utf-8').load()
         # print("\n Splitting documents")
         # text_splitter = CharacterTextSplitter(chunk_size = 1000, chunk_overlap = 100)
         # documents = text_splitter.split_documents(raw_document)
@@ -44,8 +43,9 @@ class ChromaService:
         # text_splitter = CharacterTextSplitter(chunk_size = 1000, chunk_overlap = 0)
         # documents = text_splitter.split_documents(docs)
         self.vectorstore = FAISS.from_documents(documents, HuggingFaceEmbeddings())
+        self.vectorstore.save_local("vectorstores/faiss_index")
 
-        print(f"Stored {len(documents)} documents in Chroma at '{self.chroma_path}'")
+        print(f"Stored {len(documents)} documents in Chroma at 'vectorstores/faiss_index' ")
         return self.vectorstore
 
     # def load_vector_store(self) -> Chroma:
@@ -57,13 +57,13 @@ class ChromaService:
     #         )
     #     return self.vectorstore
 
-    def query_docs(self, query: str, k: int) -> list[str]:
+    def query_docs(self, query: str) -> list[str]:
         print(f"[ QUERY] Searching for: '{query}'")
 
         # vectordb = self.load_vector_store()
-        print(self.vectorstore)
+        vector_db = FAISS.load_local("vectorstores/faiss_index", HuggingFaceEmbeddings(), allow_dangerous_deserialization=True)
         print('[DEBUG] Similarity Search')
-        docs = self.vectorstore.similarity_search(query)
+        docs = vector_db.similarity_search(query)
         print('\nFInished similarity search\n')
 
         if not docs:

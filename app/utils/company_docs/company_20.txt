@@ -1,0 +1,6 @@
+Title: Automotive Connectivity Solutions | Cognizant
+            content: Cognizant’s software and hardware testing teams have years of domain experience working with automotive manufacturers, OEMs and suppliers in North America, Europe and Asia. Our testing and integration teams provide functional, unit, integration and system testing for a wide range of automotive products including:
+Anti-lock braking systems
+Instrument clusters
+EV charging stations
+Heads-up displays (HUDs); and more

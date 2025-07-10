@@ -1,0 +1,21 @@
+UI/UX Design Company | UI/UX designers
+https://www.smarther.co/ui-ux-design-company/
+
+Ui/Ux Design Company
+UI/UX designers’ work is to make user-friendly interfaces that are easy to use for users and comfortable to use complicated technical products by them. UI means “User Interface” and UX means “User Experience”. Both these elements are important to a product and work together closely.
+Difference between UI and UX design:
+UI design:
+It relates to the app’s graphical layout which includes screen layout, buttons, animations, micro-interactions, transitions, and more. A good UI design help users to do their tasks fastly with minimum effort. It should be enjoyable, free from frustration, and satisfactory.
+The UI design should express the brand value of the company.
+Its focus on how product look and feel
+UI designers mainly focus on the visuals and quality of the end product, and they deal with the technicalities of the product design.
+UI designers design prototypes in full color
+UI designers use tools such as Sketch, Flinto, Principle, and InVision for image designing.
+They have to add artistic element in their design, since it deals with what user sees, hear, and feels.
+UX design:
+User Experience is determined by how users interact with the app. It helps users to have a positive experience. The product must be easily usable, self-explanatory, and logical. It should solve the problem of users, and the product should be accessible and usable by more people. It must allow users to complete their tasks seamlessly.
+It completely deals with user’s journey
+UX designers focus mainly on the functionality and the purpose of the end product, and they do project management and analysis of the project.
+UX designers design in black, grey, or white.
+UX designers use Mockplus which is a wireframe-based prototype tool.
+It has more of a social element, as it needs to know what the user wants to experience in the end product.

@@ -1,0 +1,71 @@
+Title: Data Analytics Services and Solutions
+            content: Hexaware’s automation-driven Amaze®
+suite
+optimizes
+data and cloud migration journeys.
+We use
+our
+proprietary modernization platform
+to
+craft seamless digita
+l transformation
+roa
+dmaps with a clear assessment of
+r
+eturn on
+i
+nvestment, unlocking the full potential of your data and cloud ecosystem.
+Unify
+your digital ecosystem across databases, data warehouses, and data lakes. Streamline data integration
+for
+a
+n
+aerial
+view
+over
+your
+expansive range of systems, solutions, and
+platforms
+, fostering
+real-time
+data-driven
+decision-making
+.
+Implement tried-and-tested governance frameworks, continuous data quality monitoring, and industry-standard guardrails
+. P
+roactively
+protect
+your data
+landscape
+and
+evade
+evolving
+threats
+.
+H
+olistically drive maximum value creation from data project lifecycles
+with
+POD-based
+models
+.
+Avail expert guidance to
+m
+eticulously plan and execute your data projects
+with ease
+.
+Calibrate data assets for
+A
+I-powered data
+analytics
+and explore new opportunities for data monetization. Build data sharing models based on tailored frameworks to fit your industry, business model, and market dynamics.
+H
+arness
+cutting-edge
+industry insights
+from our data experts
+to craft rapid, outcome-backed proof-of-concepts (POCs)
+.
+Unlock success with Hexaware’s
+simplify strategy
+for exponential growth.
+[Music] we are here in AWS rean B I'm Cassidy Quinn with geekwire Studios now here with John mccy from Arc and Dom profico with hexaware how are you guys doing here at reinvent so far doing great phenomenal content looking forward to the remaining day today well thank you so much for being here and chatting with us so John as CIO at ARC you lead the technology organization how has partnering with hexaware changed how Arc operates and serves your customers well thank you um you know we are with we support the airline industry in general and one of the things we are doing is transforming our business and going through um certain amount of modernization the partnership with hexaware establish that with hexaware to really bring them in and help us extend our strategic point of view and really help us more than anything figure out how to appropriately execute on our strategic Journey that we're embarking on um by and large that's it's been a great experience over the last two years what do you think no I think it's been a great experience you know I think the work we've been doing uh you know particularly focused right now really in data monetization and helping kind of bring forward um the vision for for Arc for Arc with respect to um modernizing that data stack bringing it forward and enabling data products and really expanding your reach uh to your your primary customers the Airlines and and other businesses is has been very rewarding very it's very interesting very engaging how do you see Ai and machine learning shaping the airline industry how does it influence Arc well uh Arc just like everybody else is starting to experiment a little bit with you know gen and AI in general um and for us we look at it as an opportunity to use it as a like a general purpose tool to help us in terms of like everybody else create some efficien gencies inhouse you know with certain use cases and then beyond that it's really how do we create value for the global traveler um and more than anything provide opportunities to enhance that data to the airlines or the travel agencies that we service yeah I mean I think would I think Arc has a very interesting they sit in an interesting spot in the industry that they're in and the amount of data and the longitudinal aspect of the data they have across those businesses gives them a very unique opportunity with AI to create those comprehensive models and the comprehensive thinking around that so it's a it's a great space for them to be in so you're obviously going in the AI direction there's always all kinds of new technology coming out how do you discern which one's more of a buzzword versus which one can actually deliver value to your company so I'll take that to start that's kind of what what our role really is in these these kinds of Partnerships with our with our clients with with customers like John is is to help break that down and and when you look historically technolog is always evolving things like metaverse things like blockchain um you've seen them kind of extend stand on the hype curve and fall off the hype curve to to some degree and think gen is one that is is um is here to stay right and it potentially is going to meet that hype and one of the ways we we to evaluate that is really things like reinvent um in other conferences and to see the amount of investment from the the larger Tech players in the in the industry and what they bring to bear against that suggest that they're in and if if there's enough critical mass and enough weight behind a technology like that it it tends to pay dividends in yet so that's an area where we you know help our customers understand comprehend the the aspects the availability of those things and help bring ideas that are specific to their business to utilize those Technologies the tool set oh yeah it's a tool set general purpose but more than anything you're already starting to see real value through the application and that really helped myself and others um to to see the opportunity with potential with that matter so that's one of the greatest differentiators we have well thank you so much and Dom for joining us here and thank you for watching us here at geekwire Studios thank you thank [Applause] [Music] [Applause] you

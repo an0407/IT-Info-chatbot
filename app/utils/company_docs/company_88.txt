@@ -1,0 +1,6 @@
+Title: Generative AI Services
+            content: Build to foster innovation & internalize creativity. Work closely with experts for new design blueprints.
+Evaluate Data Pipeline; Enable Readiness
+Ensure the harmonious interplay of creation, validation, and refinement. Focus on rapid development, deployment, and training for expedited generative AI adoption.
+Solution Design and Development
+LLMOps (large language models) Monitoring, Maintenance

@@ -1,0 +1,9 @@
+Virtusa to Adopt Google Workspace with Gemini in Expansive New Partnership
+https://www.virtusa.com/news-room/in_the_media/year_2025/may/virtusa-to-adopt-google-workspace-with-gemini-in-expansive-new-partnership
+
+The digital business strategy and engineering leader will bring innovative Google AI solutions to employees, expanding value for joint customers
+Google Cloud today announced that Virtusa Corporation, a global leader in digital business strategy, product, and platform engineering, will migrate onto Google Workspace and adopt
+Google Workspace with Gemini
+to improve collaboration and communication across the organization and with its customers. In addition to deploying Google Workspace for its employees, Virtusa also plans to migrate its security infrastructure to Google Cloud security solutions.
+As a domain-focused digital engineering organization, Virtusa is deeply committed to providing impeccable service and value for its clients, which include leading financial institutions, healthcare providers, manufacturers, and more. Google Workspace with Gemini will help Virtusa employees deliver on this commitment, providing employees access to AI securely embedded in tools like Docs, Sheets, NotebookLM, and others. This will help Virtusa employees transform the way their enterprise operates, provide a broad range of technology and security solutions for their clients, conduct valuable industry research, quickly analyze and take action on customer data and trends, and more.
+Through this partnership, Virtusa will also be better equipped to deliver solutions to its clients that leverage Google Cloud technologies, bringing more value to shared customers at scale. This includes areas such as cloud technologies, data, and responsible AI.

@@ -1,0 +1,22 @@
+6 Tips to Avoid Your Mobile App Uninstalls
+https://www.smarther.co/application/6-tips-avoid-mobile-app-uninstalls/
+
+With hundred of apps getting introduced to the app stores almost everyday, it is becoming harder to acquire new users as well as retain the existing ones. According to
+research
+, about 80% of apps are deleted after their first use. And there is about a 60% chance that the user who haven’t used the app in the first seven days, never will.
+1. Avoid too much of notifications
+Most of the app got uninstalled due to over notifications.because while relaxing after having a long day of work pressure , if your mobile keeps beeping it makes the user irritate and thus the app got uninstalled. To avoid these, user has the option to select the necessary notifications to be displayed.
+2. Easy registrations
+While registering the app, it should not redirect the users into another page, Registration of the app should be made very easy, user should not feel complex and most importantly registration should be done within minutes.
+It should have the options like social media registration for users comfortable.
+3.Crash / Freezing
+Users gets frustrated when the app got crashed or freezes while using it. It was the main reasons for uninstalling.
+A good developer must find out the reason for crashing and they should attack the fix-bug in the next update.
+4. Good UI/UX
+UI/UX plays a major role in apps performance. If a app has a good performance and has a poor ui/ux , user might install the app and goes to the app having high quality ui/ux.In order to overcome these designing should be done very carefully.
+5. Stop advertisements
+Avoid the prompts like “rate the app” every time when the user login to the app. if he rated the app once it should not pop up again asking to rate it.
+6.users privacy
+The app should maintain the user’s privacy to confidential at any cost.They should feel secure while using the app.
+Negative feedback about the app should be their first priority in the checklist.while releasing the new update, bugs in the old version should be fixed.
+If you want users to retain your app for a longer period, you need to engage with them on a regular basis in one way or the other.

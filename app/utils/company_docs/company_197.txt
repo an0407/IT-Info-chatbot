@@ -1,0 +1,4 @@
+Title: Cloud Engineering
+            content: Altimetrik
+delivers full-lifecycle cloud engineering, from cloud migration to modernization and platform operations, all underpinned by security and observability. Clients benefit from AI-powered test generation, smart deployment pipelines, and pre-built cloud accelerators for DevOps, FinOps, and DataOps. GenAI copilots enable developers to move faster, reduce rework, and maintain enterprise-grade quality with minimal overhead.
+â

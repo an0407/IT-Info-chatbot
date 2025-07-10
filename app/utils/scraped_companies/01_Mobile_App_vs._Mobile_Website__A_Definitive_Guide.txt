@@ -1,0 +1,25 @@
+Mobile App vs. Mobile Website: A Definitive Guide
+https://www.smarther.co/application/mobile-app-vs-mobile-website-a-definitive-guide/
+
+Mobile Friendly Website
+Apart from it, to target this problem, there are 3 basic solutions which might be helpful and those are –
+Build a mobile app;
+Build a mobile or responsive site; or
+Build both an app and mobile site
+If we talk in the context of one, then we will find its own advantages and disadvantages. A defined comparison theory will help for better understanding between the two. There is an
+Instant Access
+to mobile sites as they appear in internet searches on Google and Bing while you need to download an app before you get engaged with it. However, once downloaded, it will take a moment to get open on a single click. If we talk in terms of
+Functionality
+mobile websites perform an outstanding job in taking some immediate action like calling the business while mobile apps are preferred for their high functionality nature like in completing complex tasks like managing an account or tracking payments.
+Development
+is the major criteria to understand the conclusion. Building a mobile website is an easy task which can be done in minutes by converting your desktop site or starting with a template. Correspondingly mobile apps require a level of programming knowledge beyond most small business owners and can take time to create. A mobile website is similar to any other website in that it consists of
+Browser-Based HTML
+pages that are linked together and accessed over the Internet. Apps are actual applications that are Downloaded and Installed on your mobile device, rather than being rendered within a browser.
+Compatible
+across devices whereas native apps require a separate version to be developed for each type of device, mobile websites can be Updated instantly and to update an app, it requires the updated to be pushed to users, which then must be downloaded in order to update the app on each type of device.
+Mobile websites
+can be found easily and in contrast the visibility of apps is largely restricted to manufacturer app stores. Again mobile websites are Easier and Less Expensive as compared with mobile apps. Mobile websites can be shared easily by publishers and between users and we are well known that an app cannot be shared in this fashion. Mobile websites also have got the Broader Reach than native apps and mobile websites just can’t be deleted. After the detailed comparison it is found.
+a mobile website can be an app
+and just like a standard website, mobile websites can be developed as database-driven web applications that act very much like native apps. A mobile web application can be a practical alternative to native app development. The
+“app vs. web”
+question will remain a very real consideration for organisations seeking to establish a mobile presence. If you need something with high functionality, and have the budget, a mobile app may be just the ticket. Apps work particularly well for businesses with very high and recurring customer’s engagement, like a bank. However, every business should have a mobile website. This is because mobile sites are simple to create, cost-effective, great at driving sales and, most importantly, can be found in internet searches by your customers. In short- maybe you need a mobile app, but you definitely need a mobile website.

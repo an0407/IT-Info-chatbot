@@ -1,0 +1,6 @@
+Title: World of Connected Devices I Photon IoT Services
+            content: Drive IoT-connected digital strategies at scale to fuel increased product efficiency and innovation.
+The inexorable digitization of our physical world has persistently changed how we live, travel, work, and interact with each other. Rapid advancements in digital solutions have given rise to
+Internet-of-Things (IoT)
+— a global network of intelligent interconnected things that enable people, devices, and places to connect in ways never thought possible.
+This creates an opportunity for enterprises across the world to reimagine their products and services, power new types of front-end experiences, develop new business models, and improve customer experiences. Building new end-to-end systems and expanding capabilities are critical to excelling in this new redefined era. To succeed, Photon believes that enterprises must have a digital-first business strategy, delivering IoT experiences when applicable.

@@ -1,0 +1,3 @@
+Title: Generative AI Services | Altimetrik
+            content: Offer: Agentic AI Platform
+A unified AI platform that brings together intelligent agents, reasoning engines, and seamless integrations to automate complex workflows. Designed to empower users with real-time insights, decision-making support, and end-to-end task orchestration across systems.

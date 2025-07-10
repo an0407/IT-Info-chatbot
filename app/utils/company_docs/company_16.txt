@@ -1,0 +1,29 @@
+Title: Digital Lab Informatics and Automation
+            content: Stay competitive by leveraging digital lab design and support
+Drive lab innovation with automation, advanced data analytics and GxP compliance. Develop a cloud-based digital lab integrating physical components and application layers. Our end-to-end lab informatics services ensure seamless strategy, roadmap and technology selection. We help clients blueprint, design, build, test, validate and deploy master data management systems. We provide on-site assistance in R&D and manufacturing labs, adhering to GxP compliance.
+Cognizant can help you optimize lab processes, boost productivity and drive innovation. Together, we can unlock your lab’s full data potential using advanced analytics for intelligent decision-making, create digital labs of the future and secure a competitive edge for your business.
+Transforming the lab environment into digital QC 
+lab can seem an arduous task with many challenges   and barriers preventing progress. Organizational 
+change management is one of these challenges,   while lab workers are required to shift from 
+previous set ways of working and embrace a new   learning path of the digital world. By nature, the 
+QC lab ecosystem is fragmented with instruments   from different vendors, legacy systems, etc., 
+and in most cases without any unified platform,   results in data are disconnected. Most 
+processes are managed on paper, and analysts   can be reluctant to go digital with more and more 
+vigilance imposed. But once they start realizing   the benefits like help in audits, reduced cycle 
+time, speed to market, etc., they will start   seeing the value in making these changes. There 
+is a growing pressure to provide timely access   to treatments and get them to market at pace. 
+Companies are starting on a digital transformation   journey mainly to improve lab processes to be 
+able to bring drugs, vaccines, and testing to   the market quickly and at scale. Unless they 
+start their journey now, firms would lag behind   in digital adoption and associated expenses would 
+be significantly more than the early adopters. Of   course, organizations must first assess their 
+current position on the digital lab maturity   roadmap and consider stepwise milestones towards 
+digital maturity. First, standardize or harmonize   lab business processes, methodologies, and 
+technologies as much as possible. Second, set   a foundational layer with lab informatics suites 
+like LIMS, ELN, CDS, LES, etc. Third, integrate   the various lab systems and data sources so that 
+there is real-time data exchange. And lastly,   set up a central platform for data and analytics. 
+Business goals are primary consideration when   scaling up the processes towards digitization. 
+Analyzing the pros and cons for chosen platform   in alignment with business model and futuristic 
+vision is critical for right strategic approach.   Hence it is highly important to choose right 
+technology and SI partner who has expertise on   lab informatics suites like LIMS, CDS, ELN, LES, 
+and analytics platforms for successful digital   transformation. It is never too late to start 
+your digital QC lab journey. You can start today.

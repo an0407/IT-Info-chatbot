@@ -1,0 +1,8 @@
+AI Consulting & Development Services - Ideas2IT AI Lab
+https://www.ideas2it.com/services/data-science-consulting-advanced-ai-services
+
+End-to-end agile delivery across auth, onboarding, events, feedback, and social layers
+Launched centralized SSO with Web2 + Web3 login via Rollup ID
+Built guided onboarding and approval flows with in-product feedback
+Developed Facebook-style decentralized social feed for member engagement
+Reimagined events page with calendar view, filters, and timeline UX

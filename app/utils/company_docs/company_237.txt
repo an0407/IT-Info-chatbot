@@ -1,0 +1,3 @@
+Title: AI Center of Excellence Services
+            content: Governance, Risk & Compliance Frameworks
+Operationalize Responsible AI with policy automation, lineage tracking, explainability modules, and built-in HIPAA, GDPR, and SOC 2 compliance.

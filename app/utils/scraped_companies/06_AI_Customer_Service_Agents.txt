@@ -1,0 +1,4 @@
+AI Customer Service Agents
+https://www.ibm.com/products/watsonx-orchestrate/ai-agent-for-customer-service
+
+Today’s customers expect fast, seamless service. Meanwhile, employees are overwhelmed by repetitive, time-consuming tasks that divert their focus from more complex cases. IBM's intelligent digital and voice-based AI agents provide 24x7 support to meet the needs of your teams and customers. They can autonomously handle service requests for quick results. Deployed in your call center, watsonx Customer Care Agents built on IBM watsonx® Orchestrate™ can boost efficiency and offer valuable contact center insights.

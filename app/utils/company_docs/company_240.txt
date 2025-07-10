@@ -1,0 +1,3 @@
+Title: AI Data Pipeline & Labeling Services â Ideas2IT
+            content: Dataset Preparation for Fine-Tuning & Evaluation
+Create versioned, audit-ready training datasets with structured prompts, filtering, and eval harness compatibility â ready for safe experimentation and production handoff.

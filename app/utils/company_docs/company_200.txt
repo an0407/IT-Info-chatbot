@@ -1,0 +1,3 @@
+Title: Information Security
+            content: FAQs
+Altimetrik delivers secure, scalable, and AI-powered cloud engineering solutions that modernize legacy systems, improve cloud security, and accelerate innovation. Our integrated approach combines GenAI, automation, and cloud-native practices - driving faster, smarter transformation across the enterprise.
