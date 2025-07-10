@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Interview Support Chatbot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f7f7f7;
+    }
+    #chat-box {
+      width: 100%;
+      max-width: 700px;
+      margin: auto;
+      border: 1px solid #ccc;
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      height: 500px;
+      overflow-y: scroll;
+    }
+    .message   { margin-bottom: 15px; }
+    .user      { font-weight: bold; color: #00529b; }
+    .bot       { font-weight: bold; color:rgb(17, 18, 19); }
+
+    #input-section {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+    #query, #session_id {
+      width: 40%;
+      padding: 10px;
+      margin-right: 10px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+    #send {
+      padding: 10px 20px;
+      background-color: #00529b;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    #send:hover { background-color: #003f7f; }
+
+    /* --- loading dots that appear in chat box --- */
+    .loading-dots span {
+      display: inline-block;
+      width: 6px; height: 6px;
+      margin: 0 2px;
+      background: #00529b;
+      border-radius: 50%;
+      animation: blink 1.2s infinite both;
+    }
+    .loading-dots span:nth-child(2){ animation-delay: 0.2s; }
+    .loading-dots span:nth-child(3){ animation-delay: 0.4s; }
+    @keyframes blink {
+      0%, 80%, 100% { opacity: 0; }
+      40%          { opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+
+<h2 style="text-align:center;">Interview Support Chatbot</h2>
+
+<div style="text-align:center; margin-bottom:10px;">
+  <input type="text" id="session_id" placeholder="Enter your email (session ID)" />
+</div>
+
+<div id="chat-box"></div>
+
+<div id="input-section">
+  <input type="text" id="query" placeholder="Ask your query..." />
+  <button id="send">Send</button>
+</div>
+
+<script>
+  const chatBox     = document.getElementById("chat-box");
+  const queryInput  = document.getElementById("query");
+  const sessionInput= document.getElementById("session_id");
+  const sendBtn     = document.getElementById("send");
+
+  /* ------------ helpers ------------ */
+  function appendMessage(sender, text) {
+    const div = document.createElement("div");
+    div.classList.add("message");
+    div.innerHTML = `<span class="${sender}">${sender}:</span> ${text}`;
+    chatBox.appendChild(div);
+    chatBox.scrollTop = chatBox.scrollHeight;
+    return div;                 // return so we can replace if needed
+  }
+
+  function addTypingIndicator() {
+    const div = document.createElement("div");
+    div.classList.add("message");
+    div.id = "bot-typing";
+    div.innerHTML = `<span class="bot">bot:</span>
+      <span class="loading-dots"><span></span><span></span><span></span></span>`;
+    chatBox.appendChild(div);
+    chatBox.scrollTop = chatBox.scrollHeight;
+  }
+  function removeTypingIndicator() {
+    const typing = document.getElementById("bot-typing");
+    if (typing) typing.remove();
+  }
+
+  /* ------------ send logic ------------ */
+  async function sendMessage() {
+    const query     = queryInput.value.trim();
+    const sessionId = sessionInput.value.trim();
+    if (!query || !sessionId) {
+      alert("Please enter both session ID (email) and query.");
+      return;
+    }
+
+    appendMessage("user", query);
+    queryInput.value = "";
+    queryInput.disabled = true;
+    sendBtn.disabled   = true;
+
+    addTypingIndicator();
+
+    try {
+      const res  = await fetch("/chat/", {
+        method : "POST",
+        headers: {"Content-Type": "application/json"},
+        body   : JSON.stringify({ session_id: sessionId, query })
+      });
+      const data = await res.json();
+      removeTypingIndicator();
+      appendMessage("bot", data.response || "No response");
+    } catch (e) {
+      removeTypingIndicator();
+      appendMessage("bot", "Error sending message");
+    } finally {
+      queryInput.disabled = false;
+      sendBtn.disabled   = false;
+      queryInput.focus();
+    }
+  }
+
+  /* ------------ events ------------ */
+  sendBtn.addEventListener("click", sendMessage);
+  queryInput.addEventListener("keydown", e => { if (e.key === "Enter") sendMessage(); });
+</script>
+
+</body>
+</html>
