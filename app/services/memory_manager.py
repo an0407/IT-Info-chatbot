@@ -19,7 +19,10 @@ class MemoryManager:
 
     async def get_history(self, session_id: str) -> List[tuple[str, str]]:
         result = await self.session.execute(
-            select(ChatHistory).where(ChatHistory.session_id == session_id).order_by(ChatHistory.created_at)
+            select(ChatHistory).where(ChatHistory.session_id == session_id).order_by(ChatHistory.created_at).limit(7)
         )
         chats = result.scalars().all()
-        return [(chat.user_input, chat.assistant_response) for chat in chats]
+        return [
+    f"{chat.id}) User: {chat.user_input}\n{chat.id}) Bot: {chat.assistant_response}"
+    for chat in chats
+]

@@ -70,6 +70,4 @@ class ChromaService:
             print("[ RAG] No relevant documents found.")
             return []
 
-        print(docs)
-
         return [doc.page_content for doc in docs]
